@@ -15,7 +15,7 @@ int main()
 
 	for(i; i<10; i++)
 	{
-		cout << numbers << endl;
+		cout << numeri << endl; 
 	}
 
 	return 0;
